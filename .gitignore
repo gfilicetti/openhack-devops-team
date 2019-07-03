@@ -5,6 +5,7 @@
 
 # GF: Line to change
 *.gino
+*.franca
 
 # User-specific files
 *.suo
