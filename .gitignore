@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# GF: Line to change
+*.gino
+
 # User-specific files
 *.suo
 *.user
